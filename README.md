@@ -1,16 +1,6 @@
-# day_6_animated_ui
+# Animated Onboarding Page
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/obaloluwaobi/Flutter_Onboarding_AnimatedUI/assets/101903208/8a8d6f3a-15ea-497c-b2e6-e894ffd654d4
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
